@@ -50,13 +50,13 @@ apt-get install ruby
 ## Running in dev mode
 
 ```
-ruby day_<day>/Day-<day>-<problem_num>.rb
+ruby day_<day>/<problem_num>.rb
 ```
 
 Example:
 
 ```
-ruby day_1/Day-1-1.rb
+ruby day_1/1.rb
 ```
 
 ---
